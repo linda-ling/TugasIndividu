@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\AplikasiWarungLinda\AplikasiWarungLinda\bin\Debug\net6.0\AplikasiWarungLinda.exe
+C:\Users\ASUS\source\repos\AplikasiWarungLinda\AplikasiWarungLinda\bin\Debug\net6.0\AplikasiWarungLinda.deps.json
+C:\Users\ASUS\source\repos\AplikasiWarungLinda\AplikasiWarungLinda\bin\Debug\net6.0\AplikasiWarungLinda.runtimeconfig.json
+C:\Users\ASUS\source\repos\AplikasiWarungLinda\AplikasiWarungLinda\bin\Debug\net6.0\AplikasiWarungLinda.dll
+C:\Users\ASUS\source\repos\AplikasiWarungLinda\AplikasiWarungLinda\bin\Debug\net6.0\ref\AplikasiWarungLinda.dll
+C:\Users\ASUS\source\repos\AplikasiWarungLinda\AplikasiWarungLinda\bin\Debug\net6.0\AplikasiWarungLinda.pdb
+C:\Users\ASUS\source\repos\AplikasiWarungLinda\AplikasiWarungLinda\obj\Debug\net6.0\AplikasiWarungLinda.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\AplikasiWarungLinda\AplikasiWarungLinda\obj\Debug\net6.0\AplikasiWarungLinda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\AplikasiWarungLinda\AplikasiWarungLinda\obj\Debug\net6.0\AplikasiWarungLinda.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\AplikasiWarungLinda\AplikasiWarungLinda\obj\Debug\net6.0\AplikasiWarungLinda.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\AplikasiWarungLinda\AplikasiWarungLinda\obj\Debug\net6.0\AplikasiWarungLinda.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\AplikasiWarungLinda\AplikasiWarungLinda\obj\Debug\net6.0\AplikasiWarungLinda.dll
+C:\Users\ASUS\source\repos\AplikasiWarungLinda\AplikasiWarungLinda\obj\Debug\net6.0\ref\AplikasiWarungLinda.dll
+C:\Users\ASUS\source\repos\AplikasiWarungLinda\AplikasiWarungLinda\obj\Debug\net6.0\AplikasiWarungLinda.pdb
+C:\Users\ASUS\source\repos\AplikasiWarungLinda\AplikasiWarungLinda\obj\Debug\net6.0\AplikasiWarungLinda.genruntimeconfig.cache
